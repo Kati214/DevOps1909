@@ -9,5 +9,12 @@ def wait_for_print():
     sleep(3)
     print("Hello World")
 
-# print(datetime.datetime.now())
+print(datetime.datetime.now())
 wait_for_print()
+print(datetime.datetime.now())
+
+
+
+
+
+print("text")
